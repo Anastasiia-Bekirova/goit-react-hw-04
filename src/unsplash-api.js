@@ -8,7 +8,7 @@ export const fetchImages = (searchedValue, page) => {
       query: searchedValue,
       orientation: 'landscape',
       page: page,
-      per_page: 15,
+      per_page: 16,
       client_id: 'q-wKWV6XZCE_uKL0afgJIp2e4id1kG9qCJ1lyn3eyz8',
     },
   };
